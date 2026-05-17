@@ -1,0 +1,10 @@
+work_dirs/
+*.pthmmpose/
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.ckpt
+work_dirs/
+*.pth 
